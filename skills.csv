@@ -45,3 +45,149 @@ Text Classification,NLP
 Tokenization,NLP
 Transformers,NLP
 Vector Databases,NLP
+HTML,Frontend
+CSS,Frontend
+JavaScript,Frontend
+React,Frontend
+Vue.js,Frontend
+Angular,Frontend
+TypeScript,Frontend
+Redux,Frontend
+Webpack,Frontend
+Figma,Design
+Sketch,Design
+Adobe XD,Design
+Wireframing,Design
+Prototyping,Design
+User Research,Design
+Accessibility,Design
+Interaction Design,Design
+Responsive Design,Design
+Design Systems,Design
+Agile,Management
+Scrum,Management
+Kanban,Management
+JIRA,Tools
+Trello,Tools
+Leadership,Management
+Stakeholder Management,Management
+Risk Management,Management
+Communication,Soft Skills
+Selenium,Testing
+JUnit,Testing
+PyTest,Testing
+Automation Testing,Testing
+Manual Testing,Testing
+Penetration Testing,Security
+Cryptography,Security
+Network Security,Security
+Vulnerability Management,Security
+Threat Modeling,Security
+Incident Response,Security
+SIEM,Security
+Forensics,Security
+Hadoop,Data Eng
+Hive,Data Eng
+Scala,Programming
+MATLAB,Programming
+R,Programming
+OpenCV,Computer Vision
+Computer Vision,Computer Vision
+CNNs,Deep Learning
+RNNs,Deep Learning
+GANs,Deep Learning
+Reinforcement Learning,Deep Learning
+OpenAI Gym,Deep Learning
+ROS,Robotics
+Motion Planning,Robotics
+Embedded Systems,Robotics
+C,Programming
+C++,Programming
+C#,Programming
+Unity,Game Dev
+Unreal Engine,Game Dev
+3D Graphics,Game Dev
+Physics Engines,Game Dev
+Blender,Design
+ARKit,AR/VR
+ARCore,AR/VR
+Smart Contracts,Blockchain
+Solidity,Blockchain
+Ethereum,Blockchain
+Hyperledger,Blockchain
+Web3.js,Blockchain
+Rust,Programming
+Terraform,DevOps
+Monitoring,DevOps
+Logging,DevOps
+Automation,DevOps
+Excel,BI
+Google Analytics,Marketing
+A/B Testing,Marketing
+SEO,Marketing
+Content Strategy,Marketing
+Keyword Research,Marketing
+Risk Analysis,Finance
+Financial Modeling,Finance
+Derivatives,Finance
+EHR Systems,Healthcare
+Biostatistics,Healthcare
+Genomics,Bioinformatics
+Proteomics,Bioinformatics
+Biopython,Bioinformatics
+Moodle,EdTech
+LMS,EdTech
+Gamification,EdTech
+CRM,Tools
+Salesforce,CRM
+SAP,ERP
+Oracle ERP,ERP
+Compliance,Security
+=======
+skill,category
+Airflow,Data Eng
+CI/CD,DevOps
+Cloud,Cloud
+Dashboards,BI
+Data Visualization,Data/ML
+Data Warehousing,Data Eng
+Databases,Backend
+Deep Learning,Deep Learning
+Docker,DevOps
+ETL,Data Eng
+Experiment Design,Data/ML
+Feature Engineering,Data/ML
+Git,Tools
+Java,Programming
+Jupyter,Tools
+Kafka,Data Eng
+Kubernetes,DevOps
+Linux,Tools
+MLOps,MLOps
+Machine Learning,Data/ML
+Model Evaluation,Data/ML
+NLP,NLP
+Named Entity Recognition,NLP
+NoSQL,Backend
+Node.js,Programming
+NumPy,Data/ML
+Pandas,Data/ML
+Power BI,BI
+Prompt Engineering,NLP
+PyTorch,Deep Learning
+Python,Programming
+REST APIs,Backend
+Reporting,BI
+SQL,Data/ML
+Scikit-learn,Data/ML
+Spark,Data Eng
+Spreadsheets,BI
+Statistics,Data/ML
+System Design,Backend
+Tableau,BI
+TensorFlow,Deep Learning
+Testing,Backend
+Text Classification,NLP
+Tokenization,NLP
+Transformers,NLP
+Vector Databases,NLP

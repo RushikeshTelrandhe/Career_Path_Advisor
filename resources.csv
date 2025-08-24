@@ -26,3 +26,72 @@ Text Classification,Text Classification with Transformers,https://huggingface.co
 Named Entity Recognition,Token Classification with Transformers,https://huggingface.co/docs/transformers/tasks/token_classification,Hugging Face,Intermediate
 Vector Databases,Intro to Vector Databases,https://www.pinecone.io/learn/vector-database/,Guide,Intermediate
 Prompt Engineering,Prompt Engineering Guide,https://www.promptingguide.ai/,Guide,All
+Linux,Introduction to Linux,https://training.linuxfoundation.org/training/introduction-to-linux/,Linux Foundation,Beginner
+Git,Version Control with Git,https://www.coursera.org/learn/version-control-with-git,Coursera,Beginner
+Java,Java Programming and Software Engineering,https://www.coursera.org/specializations/java-programming,Coursera,Beginner
+Node.js,Node.js Official Documentation,https://nodejs.org/en/docs/,Docs,All
+NoSQL,NoSQL Databases Explained,https://www.mongodb.com/nosql-explained,MongoDB,Beginner
+System Design,System Design Primer,https://github.com/donnemartin/system-design-primer,GitHub,Intermediate
+Testing,Software Testing Tutorial,https://www.guru99.com/software-testing.html,Guru99,Beginner
+HTML,HTML Tutorial,https://developer.mozilla.org/en-US/docs/Learn/HTML,MDN,Beginner
+CSS,CSS Tutorial,https://developer.mozilla.org/en-US/docs/Learn/CSS,MDN,Beginner
+JavaScript,JavaScript Guide,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide,MDN,Beginner
+React,React Official Tutorial,https://react.dev/learn,React,Beginner
+Vue.js,Vue Mastery - Intro to Vue 3,https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3,Vue Mastery,Beginner
+Angular,Angular - Getting Started,https://angular.io/start,Angular,Beginner
+TypeScript,TypeScript Handbook,https://www.typescriptlang.org/docs/handbook/intro.html,Docs,Beginner
+Redux,Redux Essentials Tutorial,https://redux.js.org/tutorials/essentials/part-1-overview-concepts,Redux,Beginner
+Figma,Figma for Beginners,https://help.figma.com/hc/en-us/articles/360040518034-Figma-for-Beginners,Figma,Beginner
+Adobe XD,Adobe XD Learn & Support,https://helpx.adobe.com/xd/tutorials.html,Adobe,Beginner
+Wireframing,Wireframing Basics,https://www.interaction-design.org/literature/topics/wireframing,Interaction Design Foundation,Beginner
+Agile,Agile with Atlassian Jira,https://www.coursera.org/learn/agile-atlassian-jira,Coursera,Beginner
+Scrum,Professional Scrum Master I (PSM I),https://www.scrum.org/professional-scrum-master-i,Scrum.org,Intermediate
+Project Management,Google Project Management Certificate,https://www.coursera.org/professional-certificates/google-project-management,Coursera,Beginner
+Penetration Testing,Pentesting Fundamentals,https://www.cybrary.it/course/penetration-testing-and-ethical-hacking/,Cybrary,Intermediate
+Cryptography,Applied Cryptography,https://www.coursera.org/learn/crypto,Coursera,Intermediate
+Network Security,Network Security Fundamentals,https://www.udemy.com/course/network-security-fundamentals/,Udemy,Beginner
+R,Introduction to R Programming,https://www.datacamp.com/courses/free-introduction-to-r,DataCamp,Beginner
+MATLAB,Introduction to MATLAB,https://matlabacademy.mathworks.com/R2021a/portal.html,MathWorks,Beginner
+Computer Vision,OpenCV Course,https://opencv.org/courses/,OpenCV,Intermediate
+Reinforcement Learning,Deep Reinforcement Learning Nanodegree,https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893,Udacity,Advanced
+Blockchain,Blockchain Basics,https://www.coursera.org/learn/blockchain-basics,Coursera,Beginner
+Solidity,Solidity by Example,https://solidity-by-example.org/,Docs,All
+Terraform,Learn Terraform,https://developer.hashicorp.com/terraform/tutorials,HashiCorp,Beginner
+Excel,Excel for Everyone,https://www.edx.org/learn/excel,edX,Beginner
+Google Analytics,Google Analytics Academy,https://analytics.google.com/analytics/academy/,Google,Beginner
+A/B Testing,A/B Testing Tutorial,https://www.optimizely.com/optimization-guide/ab-testing/,Optimizely,Beginner
+SEO,SEO Training Course,https://ahrefs.com/academy/seo-training-course,Ahrefs,Beginner
+Financial Modeling,Financial Modeling for Beginners,https://www.coursera.org/learn/financial-modeling,Coursera,Beginner
+Genomics,Genomic Data Science Specialization,https://www.coursera.org/specializations/genomic-data-science,Coursera,Intermediate
+EdTech,LMS Basics,https://moodle.academy/course/view.php?id=64,Moodle Academy,Beginner
+Salesforce,Salesforce Fundamentals,https://trailhead.salesforce.com/en/content/learn/modules/lex_salesforce_fundamentals,Salesforce,Beginner
+SAP,SAP Learning Journeys,https://learning.sap.com/learning-journeys,SAP,All
+
+skill,title,url,provider,level
+Python,Python for Everybody (Specialization),https://www.coursera.org/specializations/python,Coursera,Beginner
+Pandas,Pandas Documentation User Guide,https://pandas.pydata.org/docs/user_guide/index.html,Docs,All
+NumPy,NumPy Quickstart,https://numpy.org/doc/stable/user/quickstart.html,Docs,All
+Scikit-learn,scikit-learn Tutorials,https://scikit-learn.org/stable/tutorial/index.html,Docs,All
+Statistics,Khan Academy - Statistics & probability,https://www.khanacademy.org/math/statistics-probability,Khan Academy,Beginner
+SQL,Mode SQL Tutorial,https://mode.com/sql-tutorial/,Mode,Beginner
+Data Visualization,Fundamentals of Data Visualization (Claus Wilke),https://serialmentor.com/dataviz/,Book,Intermediate
+Machine Learning,Andrew Ng: Machine Learning Specialization,https://www.coursera.org/specializations/machine-learning-introduction,Coursera,Beginner
+PyTorch,PyTorch Official Tutorials,https://pytorch.org/tutorials/,Docs,All
+TensorFlow,TensorFlow Guides,https://www.tensorflow.org/guide,Docs,All
+Deep Learning,fast.ai Practical Deep Learning,https://course.fast.ai/,fast.ai,Intermediate
+MLOps,Made With ML - MLOps,https://madewithml.com/topics/mlops/,Guide,Intermediate
+Docker,Docker Getting Started,https://docs.docker.com/get-started/,Docs,Beginner
+Kubernetes,Kubernetes Basics,https://kubernetes.io/docs/tutorials/kubernetes-basics/,Docs,Beginner
+REST APIs,Designing RESTful APIs,https://restfulapi.net/,Guide,All
+Cloud,AWS Cloud Practitioner Essentials,https://www.aws.training/Details/Video?id=15885,AWS,Beginner
+CI/CD,CI/CD Concepts,https://www.redhat.com/en/topics/devops/what-is-ci-cd,Article,All
+Tableau,Tableau Fundamentals,https://www.tableau.com/learn/training,Tableau,Beginner
+Power BI,Microsoft Learn: Power BI,https://learn.microsoft.com/power-bi/,Microsoft,Beginner
+Airflow,Airflow Tutorial,https://airflow.apache.org/docs/apache-airflow/stable/tutorial/,Docs,Intermediate
+Spark,Spark Quick Start,https://spark.apache.org/docs/latest/quick-start.html,Docs,Intermediate
+NLP,CS224N: NLP with Deep Learning,http://web.stanford.edu/class/cs224n/,Stanford,Advanced
+Transformers,Hugging Face - Transformers Course,https://huggingface.co/learn/nlp-course/chapter1/1,Hugging Face,Intermediate
+Text Classification,Text Classification with Transformers,https://huggingface.co/docs/transformers/tasks/sequence_classification,Hugging Face,Intermediate
+Named Entity Recognition,Token Classification with Transformers,https://huggingface.co/docs/transformers/tasks/token_classification,Hugging Face,Intermediate
+Vector Databases,Intro to Vector Databases,https://www.pinecone.io/learn/vector-database/,Guide,Intermediate
+Prompt Engineering,Prompt Engineering Guide,https://www.promptingguide.ai/,Guide,All

@@ -50,3 +50,5 @@ Then open the URL printed by Streamlit (usually http://localhost:8501).
 - For production, consider a robust parser, PII scrubbing, and skill taxonomies (e.g., ESCO/O*NET — check licenses).
 - To speed cold-starts in Spaces, you can pre-download models in a setup script or pin smaller models.
  ca80c08 (Initial commit - Career Path Advisor project)
+
+## Check Depolyed App - https://careerpathadvisorgit-8tcabudtqsdqrbia7wjtks.streamlit.app/

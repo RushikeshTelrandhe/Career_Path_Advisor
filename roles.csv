@@ -1,0 +1,7 @@
+role_id,role_name,required_skills
+DS,Data Scientist,"Python, NumPy, Pandas, Scikit-learn, Statistics, SQL, Data Visualization, Machine Learning, Feature Engineering, Experiment Design, Model Evaluation, Jupyter"
+MLE,Machine Learning Engineer,"Python, PyTorch, TensorFlow, Scikit-learn, Machine Learning, Deep Learning, MLOps, Docker, Kubernetes, REST APIs, Cloud, CI/CD"
+DA,Data Analyst,"Spreadsheets, SQL, Python, Pandas, Data Visualization, Tableau, Power BI, Statistics, Reporting, Dashboards"
+BE,Backend Developer,"Python, Java, Node.js, REST APIs, Databases, SQL, NoSQL, Git, Docker, Cloud, Testing, System Design"
+DE,Data Engineer,"Python, SQL, ETL, Airflow, Spark, Data Warehousing, Cloud, Docker, Kafka, Linux, Git"
+NLP,NLP Engineer,"Python, PyTorch, Transformers, NLP, Tokenization, Text Classification, Named Entity Recognition, Vector Databases, Prompt Engineering, Model Evaluation"

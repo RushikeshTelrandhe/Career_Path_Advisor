@@ -1,0 +1,47 @@
+skill,category
+Airflow,Data Eng
+CI/CD,DevOps
+Cloud,Cloud
+Dashboards,BI
+Data Visualization,Data/ML
+Data Warehousing,Data Eng
+Databases,Backend
+Deep Learning,Deep Learning
+Docker,DevOps
+ETL,Data Eng
+Experiment Design,Data/ML
+Feature Engineering,Data/ML
+Git,Tools
+Java,Programming
+Jupyter,Tools
+Kafka,Data Eng
+Kubernetes,DevOps
+Linux,Tools
+MLOps,MLOps
+Machine Learning,Data/ML
+Model Evaluation,Data/ML
+NLP,NLP
+Named Entity Recognition,NLP
+NoSQL,Backend
+Node.js,Programming
+NumPy,Data/ML
+Pandas,Data/ML
+Power BI,BI
+Prompt Engineering,NLP
+PyTorch,Deep Learning
+Python,Programming
+REST APIs,Backend
+Reporting,BI
+SQL,Data/ML
+Scikit-learn,Data/ML
+Spark,Data Eng
+Spreadsheets,BI
+Statistics,Data/ML
+System Design,Backend
+Tableau,BI
+TensorFlow,Deep Learning
+Testing,Backend
+Text Classification,NLP
+Tokenization,NLP
+Transformers,NLP
+Vector Databases,NLP

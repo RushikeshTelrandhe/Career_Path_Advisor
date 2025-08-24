@@ -1,0 +1,28 @@
+skill,title,url,provider,level
+Python,Python for Everybody (Specialization),https://www.coursera.org/specializations/python,Coursera,Beginner
+Pandas,Pandas Documentation User Guide,https://pandas.pydata.org/docs/user_guide/index.html,Docs,All
+NumPy,NumPy Quickstart,https://numpy.org/doc/stable/user/quickstart.html,Docs,All
+Scikit-learn,scikit-learn Tutorials,https://scikit-learn.org/stable/tutorial/index.html,Docs,All
+Statistics,Khan Academy - Statistics & probability,https://www.khanacademy.org/math/statistics-probability,Khan Academy,Beginner
+SQL,Mode SQL Tutorial,https://mode.com/sql-tutorial/,Mode,Beginner
+Data Visualization,Fundamentals of Data Visualization (Claus Wilke),https://serialmentor.com/dataviz/,Book,Intermediate
+Machine Learning,Andrew Ng: Machine Learning Specialization,https://www.coursera.org/specializations/machine-learning-introduction,Coursera,Beginner
+PyTorch,PyTorch Official Tutorials,https://pytorch.org/tutorials/,Docs,All
+TensorFlow,TensorFlow Guides,https://www.tensorflow.org/guide,Docs,All
+Deep Learning,fast.ai Practical Deep Learning,https://course.fast.ai/,fast.ai,Intermediate
+MLOps,Made With ML - MLOps,https://madewithml.com/topics/mlops/,Guide,Intermediate
+Docker,Docker Getting Started,https://docs.docker.com/get-started/,Docs,Beginner
+Kubernetes,Kubernetes Basics,https://kubernetes.io/docs/tutorials/kubernetes-basics/,Docs,Beginner
+REST APIs,Designing RESTful APIs,https://restfulapi.net/,Guide,All
+Cloud,AWS Cloud Practitioner Essentials,https://www.aws.training/Details/Video?id=15885,AWS,Beginner
+CI/CD,CI/CD Concepts,https://www.redhat.com/en/topics/devops/what-is-ci-cd,Article,All
+Tableau,Tableau Fundamentals,https://www.tableau.com/learn/training,Tableau,Beginner
+Power BI,Microsoft Learn: Power BI,https://learn.microsoft.com/power-bi/,Microsoft,Beginner
+Airflow,Airflow Tutorial,https://airflow.apache.org/docs/apache-airflow/stable/tutorial/,Docs,Intermediate
+Spark,Spark Quick Start,https://spark.apache.org/docs/latest/quick-start.html,Docs,Intermediate
+NLP,CS224N: NLP with Deep Learning,http://web.stanford.edu/class/cs224n/,Stanford,Advanced
+Transformers,Hugging Face - Transformers Course,https://huggingface.co/learn/nlp-course/chapter1/1,Hugging Face,Intermediate
+Text Classification,Text Classification with Transformers,https://huggingface.co/docs/transformers/tasks/sequence_classification,Hugging Face,Intermediate
+Named Entity Recognition,Token Classification with Transformers,https://huggingface.co/docs/transformers/tasks/token_classification,Hugging Face,Intermediate
+Vector Databases,Intro to Vector Databases,https://www.pinecone.io/learn/vector-database/,Guide,Intermediate
+Prompt Engineering,Prompt Engineering Guide,https://www.promptingguide.ai/,Guide,All

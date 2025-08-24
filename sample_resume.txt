@@ -1,0 +1,19 @@
+Rushikesh Telrandhe
+Email: rushi@example.com | Phone: +91-90000-00000 | Nagpur, India
+
+Summary
+Second-year B.Tech in AI student. Built ML models for fraud detection and churn prediction during a CODSOFT internship.
+Comfortable with Python, Pandas, NumPy, scikit-learn. Basic PyTorch for deep learning; interested in NLP and Transformers.
+
+Experience
+ML Intern, CODSOFT — 2024
+• Developed machine learning models including logistic regression and random forests (scikit-learn).
+• Data cleaning, feature engineering, and model evaluation in Jupyter.
+• Built a simple Flask app to serve predictions.
+
+Projects
+• Quiz & Weather App (JavaScript, APIs).
+• Personalized learning chatbot (Flask, recommendations, voice interaction).
+
+Skills
+Python, Pandas, NumPy, scikit-learn, SQL, Data Visualization, Statistics, Git, Linux, REST APIs
